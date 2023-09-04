@@ -1,0 +1,46 @@
+*{
+    padding: 0 ;
+    margin: 0 ;
+
+}
+body{
+    font-family: 'Cairo Play', sans-serif;
+    background-color: rgb(58, 50, 58);
+}
+
+.contener{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+}
+.input{
+    width: 400px;
+    height: 30px;
+    margin: 40px;
+    border-radius: 12px;
+    font-size: 18px;
+}
+.btn{
+    height: 30px;
+    border-radius: 12px;
+    width: 120px;
+    font-weight: bold;
+
+}
+.todolist{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.deleat{
+    border-radius: 50%;
+    font-size: 16px;
+    padding: 8px;
+    color: red;
+    margin: 25px;
+}
+.text{
+    color: aliceblue;
+    font-size: 20px;
+}
