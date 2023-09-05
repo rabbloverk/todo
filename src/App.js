@@ -5,11 +5,13 @@ import "./style.css"
 
 const App = () => {
     let [todos,setTodo]=useState([]);
+
     const addTodo =(todo)=>{
         setTodo([todo, ...todos]);
     };
+     /* function deleat todo */
     const handelDealet =(id)=>{
-        setTodo(todos.filter((todo)=>todo.id!==id))         /* function deleat todo */
+        setTodo(todos.filter((todo)=>todo.id!==id))        
     }
   return (
     <div className='app'>
