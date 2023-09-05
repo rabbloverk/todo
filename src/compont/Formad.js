@@ -2,8 +2,17 @@ import React, { useState } from 'react'
 import "../style.css"
 import shortid from 'shortid'
 
+
+// don't write arabic comments 
+// 
+
 const Formad = (props) => {
     const  [text,setText] = useState("")
+
+
+    useEffect(()=>{
+      console.log('Hello test test ')
+    },[])
 
    const handelSubmit=(e)=>{
     e.preventDefault();
