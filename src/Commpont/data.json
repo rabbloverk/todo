@@ -1,0 +1,65 @@
+[
+    {
+        "id":1,
+        "name":"Shoes",
+        "price":10.5,
+        "imgurl":"/imgs/shoes.jpg"
+
+    },
+    {
+        "id":2,
+        "name":"Shoes",
+        "price":13,
+        "imgurl":"/imgs/shoes2.jpg"
+
+    },
+    {
+        "id":3,
+        "name":"Shoes",
+        "price":15,
+        "imgurl":"/imgs/shoes3.jpg"
+
+    },
+    {
+        "id":4,
+        "name":"Computer",
+        "price":500,
+        "imgurl":"/imgs/comp1.jpg"
+
+    },
+    {
+        "id":5,
+        "name":"Computer",
+        "price":400,
+        "imgurl":"/imgs/comp2.jpg"
+
+    },
+    {
+        "id":6,
+        "name":"Mobile",
+        "price":200,
+        "imgurl":"/imgs/Mobile.jpg"
+
+    },
+    {
+        "id":7,
+        "name":"Mobile",
+        "price":600,
+        "imgurl":"/imgs/Mobile2.jpg"
+
+    },
+    {
+        "id":8,
+        "name":"Mobile",
+        "price":450,
+        "imgurl":"/imgs/Mobile3.jpg"
+
+    },
+    {
+        "id":9,
+        "name":"Banana",
+        "price":30,
+        "imgurl":"/imgs/banana.jpg"
+
+    }
+]

@@ -1,0 +1,15 @@
+.storyimg{
+    width:25px;
+    height: 25px;
+    text-align: center;
+}
+.nmbercart{
+    border-radius: 50%;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    bottom: 0;
+    width: 20px;
+}
